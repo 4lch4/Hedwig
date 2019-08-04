@@ -1,0 +1,28 @@
+{
+  "name": "@hf-solutions/hedwig",
+  "displayName": "Hedwig",
+  "version": "0.0.1",
+  "description": "A small library for interacting with the Twitter API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HF-Solutions/Hedwig.git"
+  },
+  "keywords": [
+    "Twitter",
+    "API"
+  ],
+  "author": {
+    "email": "alcha@hasslefree.solutions",
+    "name": "Alcha",
+    "url": "https://hasslefree.solutions"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HF-Solutions/Hedwig/issues"
+  },
+  "homepage": "https://github.com/HF-Solutions/Hedwig#readme"
+}
